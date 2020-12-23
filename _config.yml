@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "순구의 코딩일지"
 description              : "우아한 애자일 1기"
-url                      : "https://JeonSoongu.github.io"
+url                      : "https://jeonSoongu.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "JeonSoongu/JeonSoongu.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
