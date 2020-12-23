@@ -2,7 +2,7 @@
 main:
   - title: "블로그 방문하기"
     url: https://JeonSoongu.github.io/
- - title: "자바스크립트"
+  - title: "Categories"
     url: /categories/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
